@@ -1,4 +1,4 @@
-# Devops Assessment
+# Microservices Exercise
 Dockerize and connect each service
 Use Kafka to monitor and record user interations user posts, user messages, followers ect ...  
 
